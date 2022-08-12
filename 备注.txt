@@ -1,0 +1,18 @@
+参考网站：
+https://www.enveyo.com/
+https://xdelivery.ai/
+https://www.shipsaving.com/
+www.easyship.com
+https://goshippo.com/
+
+
+1. 页面css样式改为 #237782
+.footer-widgets .widget.widget_nav_menu ul li:before {
+    content: "\f105";
+    font-family: "FontAwesome";
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 10px;
+} // 有中文字符，要删除\f105
+
+silde 1440*530
